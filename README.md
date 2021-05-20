@@ -1,3 +1,21 @@
+# This is a forked repo by CleanTelligent
+
+We are using the React variant for chat
+See notes for tutorial:
+
+- [React Chat Tutorial](https://getstream.io/chat/react-chat/tutorial/)
+
+ 
+- chat-example/ follows this tutorial, cd into that directory 
+
+    yarn start
+
+-- you'll have a browser window from which you can chat. open a second browser to the given ip address and port, you are able to chat between the two open browsers.
+
+
+### TODO: outline build steps from checkout to chatting
+
+
 # Official React SDK for [Stream Chat](https://getstream.io/chat/sdk/react/)
 
 <p align="center">
